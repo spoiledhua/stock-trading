@@ -52,7 +52,7 @@ Once the algorithm terminates, a Matplotlib plot comparing the agent's performan
 
 ### DQN on MSFT
 
-<img src="https://raw.githubusercontent.com/spoiledhua/stock-trading/master/examples/DQN_MSFT.png" width="50%" height="50%" /> 
+<img src="https://raw.githubusercontent.com/spoiledhua/stock-trading/master/DQN_MSFT.png" width="50%" height="50%" /> 
 
 ## Additional Information
 

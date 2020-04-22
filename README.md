@@ -28,11 +28,9 @@ git clone https://github.com/spoiledhua/stock-trading.git
 cd stock-trading
 ```
 
-* Install Matplotlib [here](https://matplotlib.org/3.1.1/users/installing.html).
-
-* Install Stable Baselines, OpenAI Gym, NumPy, and Pandas:
+* Install Stable Baselines, OpenAI Gym, NumPy, Pandas, and Matplotlib:
 ```bash
-pip3 install stable-baselines gym numpy pandas
+pip3 install stable-baselines gym numpy pandas matplotlib
 ```
 
 * Train a model using one of the available RL algorithms (DQN, PPO2, A2C) on one of the available stocks (MSFT, JNJ, WMT, V, DIS). For instance, to train DQN on MSFT, run the following command:

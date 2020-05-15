@@ -54,4 +54,4 @@ Once the algorithm terminates, a Matplotlib plot comparing the agent's performan
 
 ## Additional Information
 
-Official project write-up coming soon.
+For more details about implementation and results, take a look at the final research report [here](https://github.com/spoiledhua/stock-trading/blob/master/written_report.pdf).
